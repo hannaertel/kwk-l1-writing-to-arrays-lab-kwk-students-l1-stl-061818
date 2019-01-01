@@ -13,6 +13,7 @@ def change_rainbow_colorss
     rainbow_colors[2] = "light_yellow"
     puts rainbow_colors
     rainbow_colors.push "green"
+    puts rainbow_colors
   end
   change_rainbow_colorss
   
