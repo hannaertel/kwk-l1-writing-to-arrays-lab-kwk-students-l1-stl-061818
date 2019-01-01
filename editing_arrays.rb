@@ -12,7 +12,7 @@ def change_rainbow_colorss
     rainbow_colors[1] = "light_red"
     rainbow_colors[2] = "light_yellow"
     puts rainbow_colors
-    rainbow_colors.push "green"
+    rainbow_colors.push "green", "blue"
     puts rainbow_colors
   end
   change_rainbow_colorss
