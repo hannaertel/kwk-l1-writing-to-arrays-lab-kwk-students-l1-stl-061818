@@ -11,7 +11,7 @@ def change_rainbow_colorss
     rainbow_colors[0] == "red"
     rainbow_colors[1] == "light_red"
     rainbow_colors[2] == "light_yellow"
-    print rainbow_colors
+    puts rainbow_colors
   end
   change_rainbow_colorss
   
